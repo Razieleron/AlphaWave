@@ -3,13 +3,16 @@
 ## Overview
 
 - Ctrl + Shift + V
-- [Codename: Alpha Wave] Project Name
+- [✔] Codename: Alpha Wave
 - [ ] Project Description
-- [ ] Project Goals
+- [ ] Create a fun application / portfolio project that is available in the google play store for free that provides revenue through non-egregious ad placement and optional ad viewing for bonuses and such.  
 
 ## Planning
 
 - [ ] Research
+  - [ ] Literature Review
+  - [ ] Market Analysis
+
 - [ ] Requirements Gathering
 - [ ] Timeline Creation
 
@@ -23,6 +26,8 @@
 
 - [ ] Set Up Development Environment
 - [ ] Implement Features
+  - [ ] Feature A
+  - [ ] Feature B
 - [ ] Code Review
 
 ## Testing
