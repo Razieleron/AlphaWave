@@ -9,7 +9,8 @@
 
 ## Planning
 
-- decide unity version
+- decide unity version - I purport 6 since it's the newest LTS version and we can just deal with other environment compatibility issues when they arise.
+
 - setup and link github repo between all users (environment setup)
 - research to see if AWS is possible to implement since it's on a lot of requirements for jorbs
 - would it be possible to program in c++ in unity? - just researched would need to create a whole project using a windows dll and then access it through a bridge mechanism - this would be for computationally intense tasks where c#'s managed runtime would underperform
