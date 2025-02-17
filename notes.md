@@ -5,7 +5,7 @@
 - Ctrl + Shift + V
 - [✔] Codename: Alpha Wave
 - [ ] Project Description
-- [ ] Create a fun application / portfolio project that is available in the google play store for free that provides revenue through non-egregious ad placement and optional ad viewing for bonuses and such.  
+- [ ] Create a fun application / portfolio project that is available in the google play store for free that provides revenue through non-egregious ad placement and optional ad viewing for bonuses and such.  - perhaps like a tamagotchi thing where there's like clothes and stuff and you gotta feed 'em and stuff.
 
 ## Planning
 
