@@ -1,5 +1,7 @@
 # Programmer Determined Exclusions
 .env
+.vscode/
+.vsconfig
 
 # Unity generated files
 [Ll]ibrary/
